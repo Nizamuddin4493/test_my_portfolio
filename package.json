@@ -1,27 +1,26 @@
 {
-  "name": "my-portfolio",
+  "name": "test_my_portfolio",
   "version": "1.0.0",
+  "description": "this is a project from Micriverse to give review on it",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nizamuddin4493/My-Portfolio.git"
+    "url": "git+https://github.com/Nizamuddin4493/test_my_portfolio.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Nizamuddin4493",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nizamuddin4493/My-Portfolio/issues"
+    "url": "https://github.com/Nizamuddin4493/test_my_portfolio/issues"
   },
-  "feature-portfolio": "https://github.com/Nizamuddin4493/My-Portfolio#readme",
+  "homepage": "https://github.com/Nizamuddin4493/test_my_portfolio#readme",
   "devDependencies": {
-    "hint": "^6.1.4",
+    "hint": "^6.1.7",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0"
-  },
-  "description": ""
+  }
 }
