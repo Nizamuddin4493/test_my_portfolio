@@ -1,7 +1,7 @@
 {
   "name": "test_my_portfolio",
   "version": "1.0.0",
-  "description": "this is a project from Micriverse to give review on it",
+  "description": "This project is to review and give some comments",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Nizamuddin4493/test_my_portfolio.git"
   },
-  "author": "Nizamuddin4493",
+  "author": "Nizamuddin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Nizamuddin4493/test_my_portfolio/issues"
